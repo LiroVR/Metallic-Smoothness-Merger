@@ -14,3 +14,5 @@ Made for use with shaders such as Unity's Standard shader, which only accept one
 - If using a roughness map, toggle the "Invert Smoothness Map" checkbox
 - Click "Merge"
 - Locate your newly made map in the same location as your old metallic map
+
+[Download](https://github.com/LiroVR/Metallic-Smoothness-Merger/releases/download/1.0.0/MSMerger.unitypackage)
